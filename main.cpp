@@ -29,7 +29,7 @@ int main(void)
     
     dyf_1.insert_element(5 , 1.0);
     
-    //dyf_1.add_element(0.32); // 11
+    dyf_1.add_element(0.32); // 11
     
     cout<< dyf_1.get_size() <<endl; // 12
     cout<< dyf_1.get_element(0) <<endl;
