@@ -112,7 +112,5 @@ int main(void)
     
     cout<<"-> cars sum is : "<<C_2.get_carsCount()<<endl;
     
-    cout<<"\n_!_\n";
-        cout<<"\n_!_\n";
-	return 0;
+    return 0;
 }
